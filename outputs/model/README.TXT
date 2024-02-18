@@ -1,1 +1,1 @@
-# The output model will be here.
+# Default model storage path

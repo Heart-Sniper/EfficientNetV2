@@ -7,9 +7,8 @@
     |-- Datasets
     |-- Deployment
     |-- EfficientNetV2
-        |-- pretained_model
+        |-- pretrained_model
         |-- runs
-        |-- weights
     |-- outputs
         |-- model
     |-- Results
